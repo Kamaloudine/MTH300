@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1578481645 source:/home/kamaloudine/Bureau/Cours/algonum/Code/MTH300/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	"methode.h"
+	"traitement.h"
+
+1578481850 /home/kamaloudine/Bureau/Cours/algonum/Code/MTH300/methode.h
+
+1578484892 source:/home/kamaloudine/Bureau/Cours/algonum/Code/MTH300/methode.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"methode.h"
+	"traitement.h"
+
+1578480728 source:/home/kamaloudine/Bureau/Cours/algonum/Code/MTH300/methode.h
+
+1578518833 /home/kamaloudine/Bureau/Cours/algonum/Code/MTH300/traitement.h
+
+1578519349 source:/home/kamaloudine/Bureau/Cours/algonum/Code/MTH300/systemMethde.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"methode.h"
+	"traitement.h"
+
